@@ -5,7 +5,7 @@
         <title>The Roxy Carter Blog</title>
     </head>
     <body>
-        
+      <!--Hi!-->  
        <style>
            #blog-1{
             font-family:"courier",sans-serif;     color:rgb(0, 185, 252);    
