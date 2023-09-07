@@ -100,7 +100,7 @@ Here are a few additional tips for writing great good morning texts:
 <h3>5 Tips For Learning Programming</h3>
 
      <ul id="blog-2">
-     <img src="https://images.app.goo.gl/qLTh2GZYJzKM7nd99" alt="Binary Code">
+     <img src="https://images.app.goo.gl/qLTh2GZYJzKM7nd99" alt="Binary Code"/>
      <p>Programming is a skill that can be learned by anyone, regardless of their background or experience. It can be a great way to improve your problem-solving skills, creativity, and analytical thinking.</p>
     
     <p>If you're interested in learning to program, here are a few tips to help you get started:</p>
