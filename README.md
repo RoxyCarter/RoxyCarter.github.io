@@ -51,7 +51,7 @@
         <h6>8/31/2023</h6>
         
         <h3>How to Use Good Morning Texts to Start Someone's Day Off Right</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Balloon_with_smiley_face_01.jpg"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Balloon_with_smiley_face_01.jpg" alt="Smiley Face" width="150" height="150"/>
 
 <ul id="blog-1">Good morning texts are a great way to show someone you care and to start their day off on the right foot. They can be simple or elaborate, but they should always be heartfelt.
 
