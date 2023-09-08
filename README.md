@@ -51,7 +51,7 @@
         <h6>8/31/2023</h6>
         
         <h3>How to Use Good Morning Texts to Start Someone's Day Off Right</h3>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Balloon_with_smiley_face_01.jpg" alt="Smiley Face" width="150" height="150"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/15/Balloon_with_smiley_face_01.jpg" alt="Smiley Face" width="590" height="150"/>
 
 <ul id="blog-1">Good morning texts are a great way to show someone you care and to start their day off on the right foot. They can be simple or elaborate, but they should always be heartfelt.
 
@@ -128,6 +128,26 @@ Here are a few additional tips for writing great good morning texts:
     <li>Don't be afraid to experiment. One of the best ways to learn programming is by experimenting with different concepts and techniques. So don't be afraid to try new things and see what happens.</li></ul>
     
     <p class="blog-2">I hope these tips help you on your journey to learning to program.😊😊😊</p>
+
+    <h3>How To Stay Positive</h3>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Young_Woman_Thinking.jpg" alt="Girl Thinking width="590" height="150"/>
+    <ul><li><p>Practice gratitude. Take some time each day to think about the things you're grateful for. This could be anything from your family and friends to your health and home. Gratitude can help you focus on the positive aspects of your life and appreciate what you have.</p>
+    
+<p>Help others. Doing something nice for someone else can make you feel good and boost your mood. It can also help you take your mind off your own problems and focus on something else.</p>
+
+<p>Spend time in nature. Getting out in nature has been shown to improve mood and reduce stress. So go for a walk in the park, hike in the woods, or just sit in your backyard and enjoy the fresh air.</p>
+
+<p>Do things you enjoy. Make time for activities that you find enjoyable, whether it's reading, listening to music, or spending time with friends and family. Doing things you enjoy can help you relax and de-stress.</p>
+
+<p>Take care of yourself. Make sure you're getting enough sleep, eating healthy foods, and exercising regularly. Taking care of your physical and mental health will help you feel better overall and make it easier to stay positive.</p>
+
+<p>Challenge negative thoughts. When you have a negative thought, try to challenge it. Ask yourself if it's really true and if there's another way to look at the situation. This can help you to change your perspective and see the situation in a more positive light.</p>
+
+<p>Be patient with yourself. It takes time and effort to change your mindset and become more positive. Don't get discouraged if you slip up sometimes. Just keep practicing and you'll eventually get better at it.</p></li>
+
+Remember, staying positive is a journey, not a destination. There will be ups and downs along the way, but it's important to keep moving forward. With time and effort, you can learn to stay positive and enjoy a more fulfilling life.
+
+</ul>
 
 
         
