@@ -132,7 +132,7 @@ Here are a few additional tips for writing great good morning texts:
     <p class="blog-2">I hope these tips help you on your journey to learning to program.😊😊😊</p>
 
     <h3>How To Stay Positive</h3>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Young_Woman_Thinking.jpg" alt="Girl Thinking width="590" height="150"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Young_Woman_Thinking.jpg" alt="Girl Thinking" width="590" height="150"/>
     <ul id="blog-3"><li><p>Practice gratitude. Take some time each day to think about the things you're grateful for. This could be anything from your family and friends to your health and home. Gratitude can help you focus on the positive aspects of your life and appreciate what you have.</p>
     
 <p class="blog-3">Help others. Doing something nice for someone else can make you feel good and boost your mood. It can also help you take your mind off your own problems and focus on something else.</p>
