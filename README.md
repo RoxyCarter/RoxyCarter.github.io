@@ -39,13 +39,15 @@
 
         <h3>Contents</h3>
          <a href="#blog-1"><ul>
-            <li>First post!</li>
+            <li>Post #1</li>
         </ul>
         </a>
         
         <a href="#blog-2"><ul>
-            <li>Second post!</li>
+            <li>Post #2</li>
         </ul></a>
+
+        <a href="#blog-3"><ul><li>Post #3</li></ul></a>
        
         
         <h6>8/31/2023</h6>
@@ -131,19 +133,19 @@ Here are a few additional tips for writing great good morning texts:
 
     <h3>How To Stay Positive</h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Young_Woman_Thinking.jpg" alt="Girl Thinking width="590" height="150"/>
-    <ul><li><p>Practice gratitude. Take some time each day to think about the things you're grateful for. This could be anything from your family and friends to your health and home. Gratitude can help you focus on the positive aspects of your life and appreciate what you have.</p>
+    <ul id="blog-3"><li><p>Practice gratitude. Take some time each day to think about the things you're grateful for. This could be anything from your family and friends to your health and home. Gratitude can help you focus on the positive aspects of your life and appreciate what you have.</p>
     
-<p>Help others. Doing something nice for someone else can make you feel good and boost your mood. It can also help you take your mind off your own problems and focus on something else.</p>
+<p class="blog-3">Help others. Doing something nice for someone else can make you feel good and boost your mood. It can also help you take your mind off your own problems and focus on something else.</p>
 
-<p>Spend time in nature. Getting out in nature has been shown to improve mood and reduce stress. So go for a walk in the park, hike in the woods, or just sit in your backyard and enjoy the fresh air.</p>
+<p class="blog-3">Spend time in nature. Getting out in nature has been shown to improve mood and reduce stress. So go for a walk in the park, hike in the woods, or just sit in your backyard and enjoy the fresh air.</p>
 
-<p>Do things you enjoy. Make time for activities that you find enjoyable, whether it's reading, listening to music, or spending time with friends and family. Doing things you enjoy can help you relax and de-stress.</p>
+<p class="blog-3">Do things you enjoy. Make time for activities that you find enjoyable, whether it's reading, listening to music, or spending time with friends and family. Doing things you enjoy can help you relax and de-stress.</p>
 
-<p>Take care of yourself. Make sure you're getting enough sleep, eating healthy foods, and exercising regularly. Taking care of your physical and mental health will help you feel better overall and make it easier to stay positive.</p>
+<p class="blog-3">Take care of yourself. Make sure you're getting enough sleep, eating healthy foods, and exercising regularly. Taking care of your physical and mental health will help you feel better overall and make it easier to stay positive.</p>
 
-<p>Challenge negative thoughts. When you have a negative thought, try to challenge it. Ask yourself if it's really true and if there's another way to look at the situation. This can help you to change your perspective and see the situation in a more positive light.</p>
+<p class="blog-3">Challenge negative thoughts. When you have a negative thought, try to challenge it. Ask yourself if it's really true and if there's another way to look at the situation. This can help you to change your perspective and see the situation in a more positive light.</p>
 
-<p>Be patient with yourself. It takes time and effort to change your mindset and become more positive. Don't get discouraged if you slip up sometimes. Just keep practicing and you'll eventually get better at it.</p></li>
+<p class="blog-3">Be patient with yourself. It takes time and effort to change your mindset and become more positive. Don't get discouraged if you slip up sometimes. Just keep practicing and you'll eventually get better at it.</p></li>
 
 Remember, staying positive is a journey, not a destination. There will be ups and downs along the way, but it's important to keep moving forward. With time and effort, you can learn to stay positive and enjoy a more fulfilling life.
 
